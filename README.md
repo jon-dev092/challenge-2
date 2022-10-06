@@ -16,4 +16,4 @@ MIT
 ## Links
 
 [Github](https://github.com/jon-dev092/challenge-2)                                
-[Deployed Page]()
+[Deployed Page](https://jon-dev092.github.io/challenge-2/)
