@@ -130,7 +130,7 @@ header nav a:hover {
        
 }
 
-#combatpilot,
+#grynd-fitness,
 #airworthiness,
 #cyberward,
 #float4 {
@@ -149,7 +149,7 @@ header nav a:hover {
     opacity: 1; 
 }
 
-#combatpilot h2,
+#grynd-fitness h2,
 #airworthiness h2,
 #cyberward h2,
 #float4 h2 {
@@ -158,7 +158,7 @@ header nav a:hover {
 }
 
 .float1 {
-    background-image: url(./images/fighter-jet-fighter-aircraft-f-16-falcon-aircraft-76971.webp);
+    background-image: url(./images/workout-cards-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
